@@ -1,0 +1,1 @@
+docker build -t registry.devops.connectedfleet.io/rancher-traefik:$(cat version) .
